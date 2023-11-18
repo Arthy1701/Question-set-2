@@ -14,6 +14,7 @@ namespace Question_set_2
         }
         static void Qset2_1()
         {
+            //first..
         }
     }
 }
