@@ -896,6 +896,7 @@ namespace Question_set_2
                     Console.WriteLine("computer win");
 
                 }
+                Console.WriteLine();
             }
 
         }
