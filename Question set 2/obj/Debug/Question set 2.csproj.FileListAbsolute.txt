@@ -1,1 +1,6 @@
 c:\users\lenovo\documents\visual studio 2012\Projects\Question set 2\Question set 2\bin\Debug\Question set 2.exe.config
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Question set 2\Question set 2\bin\Debug\Question set 2.exe
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Question set 2\Question set 2\bin\Debug\Question set 2.pdb
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Question set 2\Question set 2\obj\Debug\Question set 2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Question set 2\Question set 2\obj\Debug\Question set 2.exe
+C:\Users\Lenovo\documents\visual studio 2012\Projects\Question set 2\Question set 2\obj\Debug\Question set 2.pdb
